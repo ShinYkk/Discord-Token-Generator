@@ -16,5 +16,5 @@
     - [x] Token
 
 # How to get it
-- Open an issue on the github repository with your discord so I will contact you! (I just came to Github to expand the visibility of my tools that I usually sell on forums.)
+- Add me on Discord: ShinYkk#3704
 - Only serious buyers who are aware of the profit they can make with a tool of this quality.
