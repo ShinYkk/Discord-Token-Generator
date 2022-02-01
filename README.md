@@ -1,7 +1,7 @@
 <div align="center">
   <h1> ShinYkk's Discord Token Generator </h1><br>
 
-<h1> Working after the discord patch ! (Working 30/01/2022 - 16:00) <h1>
+<h1> Working after the discord patch ! (Working 01/02/2022 - 13:26) <h1>
 </div>
 
 # Features
