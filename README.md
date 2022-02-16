@@ -1,7 +1,7 @@
 <div align="center">
   <h1> ShinYkk's Discord Token Generator </h1><br>
 
-<h1> Working after the discord patch ! (Working 08/02/2022 - 17:16) - Token Shop: https://eztoken.sellix.io<h1>
+<h1> Working after the discord patch ! (Working 16/02/2022) - Token Shop (RESTOCKED ON 16/02/2022): https://eztoken.sellix.io<h1>
 </div>
 
 # Features
